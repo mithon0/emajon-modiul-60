@@ -1,0 +1,156 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.login-container {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 650px;
+
+    top: -20px;
+    left: 20px;
+
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+}
+
+form {
+    display: block;
+}
+
+.title {
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+
+}
+
+input {
+    width: 415px;
+    height: 40px;
+    margin-left: 44px;
+    margin-top: 10px;
+    margin-bottom: 21px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.lbl {
+    margin-left: 46px;
+    padding: 9px;
+    margin-top: 30px;
+}
+
+.bg {
+    position: absolute;
+    width: 500px;
+    height: 650px;
+    left: 472px;
+    top: 221px;
+
+    background: #FFE0B3;
+    border-radius: 8px;
+
+}
+
+.login-btn {
+    width: 415px;
+    height: 55px;
+    background: rgba(255, 153, 0, 0.3);
+    border-radius: 5px;
+    margin-left: 50px;
+    font-size: 21px;
+    border: none;
+}
+.login-btn:hover{
+    background-color: #FF9900;
+}
+
+.s {
+    font-size: 15px;
+    color: #2A414F;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.link {
+    color: #FF9900;
+    font-size: 15px;
+    text-decoration: none;
+
+}
+
+.line {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+}
+
+.b {
+    width: 145px;
+    text-align: center;
+
+}
+
+.c {
+    display: flex;
+}
+
+.d {
+    font-size: 17px;
+    color: #95A0A7;
+}
+
+.google-btn {
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    margin-left: 44px;
+    margin-top: 30px;
+    font-size: 17px;
+    color: #2A414F;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.google-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.bgg {
+    position: absolute;
+    width: 500px;
+    height: 750px;
+    left: 472px;
+    top: 221px;
+
+    background: #FFE0B3;
+    border-radius: 8px;
+
+}
+.login-containerr {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 500px;
+    height: 750px;
+
+    top: -10px;
+    left: 10px;
+
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+}
+.bgg:hover{
+    background-color: #FF9900;
+}
